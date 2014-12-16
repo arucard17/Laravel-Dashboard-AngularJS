@@ -1,0 +1,30 @@
+{
+  "name": "SICS",
+  "version": "0.0.1",
+  "description": "Proyecto SICS",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21",
+    "angular-cookies": "~1.2.24",
+    "angular-bootstrap": "~0.11.0",
+    "angular-ui-router": "^0.2.10",
+    "bootstrap": "~3.2.0",
+    "angular-route": "~1.2.24",
+    "angular-resource": "~1.2.24",
+    "angular-sanitize": "~1.2.24",
+    "angular-touch": "~1.2.24",
+    "font-awesome": "~4.2.0",
+    "angular-animate": "~1.2.24",
+    "underscore": "~1.7.0",
+    "angular-ui-sortable": "~0.12.11",
+    "sweetalert": "~0.3.1"
+  }
+}

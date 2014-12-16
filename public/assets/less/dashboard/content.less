@@ -1,0 +1,32 @@
+#content-wrapper {
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+    height: auto;
+
+    .badge{
+        position: absolute;
+        margin-top: 22px;
+        margin-left: -9px;
+        background-color: #D85656;
+        font-size: 10px;
+    }
+
+}
+@media only screen and (min-width:561px){
+    #page-wrapper.active {
+      padding-left: 250px;
+    }
+}
+@media only screen and (max-width:560px){
+    #page-wrapper.active {
+      padding-left: 70px;
+    }
+
+    .view-element{
+        padding-left: 0px;
+    }
+}
+#page-wrapper.active #sidebar-wrapper {
+    left: 150px;
+}

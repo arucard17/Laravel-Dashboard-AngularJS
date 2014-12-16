@@ -1,0 +1,745 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"postMessage"
+			],
+			[
+				"Googl",
+				"GoogleMapApi"
+			],
+			[
+				"date",
+				"dateToTime"
+			],
+			[
+				"selected",
+				"selectedTalla"
+			],
+			[
+				"resul",
+				"resultColores"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"foto",
+				"foto_name"
+			],
+			[
+				"mysql_row",
+				"mysql_num_rows"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"cur",
+				"currentTarget"
+			],
+			[
+				"codigo",
+				"codigobarras"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/assets/js/dashboard/controllers/menu-ctrl.js",
+			"settings":
+			{
+				"buffer_size": 2600,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 6000,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"g",
+				"Gulp"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"node",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cristian/Code/ppt",
+		"/Users/cristian/Code/ppt/app",
+		"/Users/cristian/Code/ppt/app/controllers",
+		"/Users/cristian/Code/ppt/app/lang",
+		"/Users/cristian/Code/ppt/app/lang/en",
+		"/Users/cristian/Code/ppt/app/lang/es",
+		"/Users/cristian/Code/ppt/app/models",
+		"/Users/cristian/Code/ppt/app/views",
+		"/Users/cristian/Code/ppt/app/views/layouts",
+		"/Users/cristian/Code/ppt/app/views/templates",
+		"/Users/cristian/Code/ppt/public",
+		"/Users/cristian/Code/ppt/public/assets",
+		"/Users/cristian/Code/ppt/public/assets/js",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/controllers",
+		"/Users/cristian/Code/ppt/vendor/anahkiasen"
+	],
+	"file_history":
+	[
+		"/Users/cristian/Code/ppt/app/views/templates/menu.blade.php",
+		"/Users/cristian/Code/ppt/app/views/login.blade.php",
+		"/Users/cristian/Code/ppt/app/models/Access.php",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/controllers/menu-ctrl.js",
+		"/Users/cristian/Code/ppt/app/controllers/MenuController.php",
+		"/Users/cristian/Code/ppt/app/models/User.php",
+		"/Users/cristian/Code/ppt/app/models/Rol.php",
+		"/Users/cristian/Code/ppt/app/models/Menu.php",
+		"/Users/cristian/Code/ppt/public/assets/js/plugins.js",
+		"/Users/cristian/Code/ppt/app/views/main.blade.php",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/controllers/article-ctrl.js",
+		"/Users/cristian/Code/ppt/app/controllers/ArticleController.php",
+		"/Users/cristian/Code/ppt/app/models/Article.php",
+		"/Users/cristian/Code/ppt/app/lang/es/validation.php",
+		"/Users/cristian/Code/ppt/app/config/app.php",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/controllers/master-ctrl.js",
+		"/Users/cristian/Code/ppt/app/views/templates/article-edit.blade.php",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/controllers/main-ctrl.js",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/routes.js",
+		"/Users/cristian/Code/ppt/public/assets/js/dashboard/module.js",
+		"/Users/cristian/Code/ppt/app/views/layouts/master.blade.php",
+		"/Volumes/TOSHIBA EXT/Desarrollo/test/express/myapp/package.json",
+		"/Volumes/TOSHIBA EXT/Desarrollo/test/express/myapp/routes/index.js",
+		"/Users/cristian/Code/sics/app/controllers/ProyectoController.php",
+		"/Users/cristian/Code/sics/public/assets/js/plugins.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/path-ctrl.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/planificacion-ctrl.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/proyecto-ctrl.js",
+		"/Users/cristian/Code/sics/app/models/Proyecto.php",
+		"/Users/cristian/Code/sics/app/views/templates/avance-view.blade.php",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/avance-ctrl.js",
+		"/Users/cristian/Code/sics/app/routes.php",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/main-ctrl.js",
+		"/Users/cristian/Code/sics/app/views/templates/main.blade.php",
+		"/Users/cristian/Code/sics/app/views/templates/planificacion-view.blade.php",
+		"/Users/cristian/Code/sics/app/views/templates/proyecto-view.blade.php",
+		"/Users/cristian/Code/sics/app/controllers/PlanificacionController.php",
+		"/Users/cristian/Code/sics/app/controllers/ActividadController.php",
+		"/Users/cristian/Code/sics/node_modules/bower/node_modules/retry/lib/retry_operation.js",
+		"/Users/cristian/Code/sics/readme.md",
+		"/Users/cristian/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cristian/Code/sics/gulpfile.js",
+		"/Users/cristian/Code/sics/package.json",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/services/planificacion-srv.js",
+		"/Users/cristian/Code/sics/app/models/Planeacion.php",
+		"/Users/cristian/Code/sics/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/ejecucion-ctrl.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/fases-ctrl.js",
+		"/Users/cristian/Code/sics/app/views/templates/proyecto-edit.blade.php",
+		"/Users/cristian/Code/sics/app/views/login.blade.php",
+		"/Users/cristian/Code/sics/app/views/layouts/index.blade.php",
+		"/Users/cristian/Code/sics/app/controllers/LoginController.php",
+		"/Users/cristian/Code/sics/node_modules/gulp-util/lib/log.js",
+		"/Users/cristian/Code/sics/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
+		"/Users/cristian/Code/sics/node_modules/bower/LICENSE",
+		"/Users/cristian/Code/sics/public/assets/js/build/dashboard-deps.minjs",
+		"/Users/cristian/Code/sics/public/assets/js/build/dashboard.min.js",
+		"/Users/cristian/Code/sics/public/assets/js/build/dashboard.minjs",
+		"/Users/cristian/Code/sics/public/assets/js/build/dashboard.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/fasesEjec-ctrl.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/module.js",
+		"/Users/cristian/Code/sics/app/views/templates/actividadEjec-view.blade.php",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/actividadEjec-ctrl.js",
+		"/Users/cristian/Code/sics/app/views/templates/proyecto.blade.php",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/actividad-ctrl.js",
+		"/Users/cristian/Code/sics/public/assets/js/dashboard/controllers/informes-ctrl.js",
+		"/Users/cristian/Code/deka/modelo/dao/DaoCliente.php",
+		"/Users/cristian/Code/deka/modelo/MdlCliente.php",
+		"/Users/cristian/Code/deka/controlador/CtrlAdminVentas.php",
+		"/Users/cristian/Code/deka/vista/VstVerClientes.tpl",
+		"/Users/cristian/Code/deka/vista/VstVentasGrillaLineas.tpl",
+		"/Users/cristian/Code/deka/modelo/MdlFacturacion.php",
+		"/Users/cristian/Code/deka/controlador/CtrlAdminCaja.php",
+		"/Users/cristian/Code/deka/funciones/fechas.php",
+		"/Users/cristian/Code/deka/facturas_clientes/guardar_factura.php",
+		"/Users/cristian/Code/deka/modelo/MdlCobros.php",
+		"/Users/cristian/Code/deka/separado/guardar_factura.php",
+		"/Users/cristian/Code/deka/facturas_clientes/nueva_factura.php",
+		"/Users/cristian/Code/deka/separado/nueva_factura.php",
+		"/Users/cristian/Code/deka/facturas_clientes/modificar_factura.php",
+		"/Users/cristian/Code/deka/separado/modificar_factura.php",
+		"/Users/cristian/Code/deka/cobros/frame_cobros.php",
+		"/Users/cristian/Code/deka/cobros/eliminar.php",
+		"/Users/cristian/Code/deka/cobros/ver_cobros.php",
+		"/Users/cristian/Code/deka/articulos/nuevo_articulo.php",
+		"/Users/cristian/Code/deka/funciones/validar.js",
+		"/Users/cristian/Code/deka/cobros/ver_cobros.bak",
+		"/Users/cristian/Code/deka/facturas_clientes/frame_lineas.php",
+		"/Users/cristian/Code/deka/separado/frame_lineas.php",
+		"/Users/cristian/Code/deka/articulos/modificar_articulo.php",
+		"/Users/cristian/Code/deka/estilos/estilos.css",
+		"/Users/cristian/Code/deka/facturas_clientes/frame_articulos.php",
+		"/Users/cristian/Code/deka/separado/eliminar_factura.php",
+		"/Users/cristian/Code/deka/facturas_clientes/eliminar_factura.php",
+		"/Users/cristian/Code/deka/vista/VstAdminVentas.tpl",
+		"/Users/cristian/Code/deka/facturas_clientes/ver_articulos.php",
+		"/Users/cristian/Code/deka/facturas_proveedores/ver_articulos.php",
+		"/Users/cristian/Code/deka/separado/ver_articulos.php",
+		"/Users/cristian/Code/deka/ventas_mostrador/ver_articulos.php",
+		"/Users/cristian/Code/deka/albaranes_clientes/ver_articulos.php",
+		"/Users/cristian/Code/deka/albaranes_proveedores/ver_articulos.php",
+		"/Users/cristian/Code/deka/articulos/ventana_articulos.php",
+		"/Users/cristian/Code/deka/facturas_clientes/ver_clientes.php",
+		"/Users/cristian/Code/deka/facturas_proveedores/ventana_proveedores.php",
+		"/Users/cristian/Code/deka/facturas_proveedores/ver_proveedores.php",
+		"/Users/cristian/Code/deka/lote_albaranes_clientes/ver_clientes.php",
+		"/Users/cristian/Code/deka/lote_albaranes_proveedores/ver_proveedores.php",
+		"/Users/cristian/Code/deka/pagos/ver_observaciones.php",
+		"/Users/cristian/Code/deka/pagos/ver_proveedores.php",
+		"/Users/cristian/Code/deka/proveedores/ventana_proveedores.php",
+		"/Users/cristian/Code/deka/separado/ventana_clientes.php",
+		"/Users/cristian/Code/deka/separado/ver_clientes.php",
+		"/Users/cristian/Code/deka/ventas_mostrador/ver_clientes.php",
+		"/Users/cristian/Code/deka/albaranes_clientes/ventana_clientes.php",
+		"/Users/cristian/Code/deka/albaranes_clientes/ver_clientes.php",
+		"/Users/cristian/Code/deka/albaranes_proveedores/ventana_proveedores.php",
+		"/Users/cristian/Code/deka/albaranes_proveedores/ver_proveedores.php",
+		"/Users/cristian/Code/deka/clientes/ventana_clientes.php",
+		"/Users/cristian/Code/deka/cobros/ver_clientes.php",
+		"/Users/cristian/Code/deka/cobros/ver_observaciones.php",
+		"/Users/cristian/Code/deka/facturas_clientes/ventana_clientes.php",
+		"/Users/cristian/Code/deka/vista/VstVentasVerArticulos.tpl",
+		"/Users/cristian/Code/deka/bower_components/bootstrap/less/print.less",
+		"/Users/cristian/Code/deka/albaranes_proveedores/frame_proveedores_ini.php",
+		"/Users/cristian/Code/deka/bower_components/jquery/test/data/event/promiseReady.html",
+		"/Users/cristian/Code/deka/package.json",
+		"/Users/cristian/Code/deka/modelo/MdlTallas.php",
+		"/Users/cristian/Code/deka/menu/theme.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/cristian/Code/deka"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"rules",
+			"Mestro",
+			"Articulo",
+			"sigmaGraph",
+			"ModalAddEvidenciaEjecCtrl",
+			"Evidenci",
+			"data",
+			"fd.append",
+			"isPApp",
+			"takePicture",
+			"dashboard-deps.min",
+			"<link",
+			"<script",
+			"uglify",
+			"<script",
+			"new Date",
+			"Edit",
+			"new Date",
+			"Edit",
+			"edit",
+			"scope",
+			"ModalShowIncidenciaCtrl",
+			"incidencia",
+			"ModalShowEvidenciaAvanceCtrl",
+			"$scope.",
+			"$scope",
+			"ModalAddChangeCtrl",
+			"dateToTime",
+			"verCliente",
+			"cliente",
+			"fechahoy",
+			"_POST",
+			"fechavencimiento",
+			"fecha",
+			"option",
+			"<img src=\"\\.\\.\\/img/botonbuscar\\.jpg\" width=\"69\" height=\"22\" border=\"1\" onClick=\"(.*)\" onMouseOver=\"style.cursor=cursor\">",
+			"<img src=\"../img/botoncerrar.jpg\" width=\"70\" height=\"22\" onClick=\"window.close()\" border=\"1\" onMouseOver=\"style.cursor=cursor\">",
+			"print",
+			"hex",
+			"Tallas",
+			"formulario_lineas",
+			"validar",
+			"option",
+			"5",
+			"linea",
+			"talla",
+			"<?",
+			"permitColor",
+			"false",
+			";\n",
+			"option",
+			"getTallas",
+			"talla",
+			"tipoFormaPago",
+			"limpiar_buqueda",
+			"CC",
+			"totalFacturasDesdeAperturaCaja",
+			"'type'",
+			"type",
+			"renderTallas",
+			".type",
+			"tallas",
+			"type",
+			"cotCol",
+			"$color",
+			"color",
+			"cambiar_imagen",
+			"showTallaWithColor",
+			"stock_type",
+			"cadena_busqueda",
+			"limpi",
+			"adevolver",
+			"0",
+			"codarticulo",
+			"codbarras",
+			"codigobarras",
+			"agregarProducto",
+			"codfamilia",
+			"resultTallas",
+			"resultColores",
+			"expression",
+			" \n",
+			"resultTallas",
+			"nombre",
+			"codigobarras"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\n        $scope.dateToTime = function (date){\n            return new Date(date);\n        };\n",
+			"<button type=\"button\" class=\"btn btn-default\" onClick=\"$1\"><span class=\"glyphicon glyphicon-search\"></span> Buscar</button>",
+			"<img src=\"../img/botonbuscar.jpg\" width=\"69\" height=\"22\" border=\"1\" onClick=\"enviar()\" onMouseOver=\"style.cursor=cursor\">",
+			"<button type=\"button\" class=\"btn btn-default\" onClick=\"window.close()\">Cerrar</button>",
+			"<img src=\"../img/botoncerrar.jpg\" width=\"70\" height=\"22\" onClick=\"window.close()\" border=\"1\" onMouseOver=\"style.cursor=cursor\">",
+			"limpiar_busqueda"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/assets/js/dashboard/controllers/menu-ctrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/main.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 98.0
+	},
+	"project": "ppt.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"planificacion",
+				"app/views/templates/planificacion-view.blade.php"
+			],
+			[
+				"login",
+				"app/views/login.blade.php"
+			],
+			[
+				"validar.js",
+				"funciones/validar.js"
+			],
+			[
+				"estil",
+				"estilos/estilos.css"
+			],
+			[
+				"est",
+				"estilos/estilos.css"
+			],
+			[
+				"talla",
+				"modelo/MdlTallas.php"
+			],
+			[
+				"facturacion",
+				"modelo/MdlFacturacion.php"
+			],
+			[
+				"ctrl",
+				"controlador/CtrlAdminVentas.php"
+			],
+			[
+				"ver_fp",
+				"formaspago/ver_fp.php"
+			],
+			[
+				"estilo",
+				"estilos/estilos.css"
+			],
+			[
+				"esti",
+				"estilos/estilos.css"
+			],
+			[
+				"ctrladminve",
+				"controlador/CtrlAdminVentas.php"
+			],
+			[
+				"smarty_internal_write_file.php",
+				"libs/sysplugins/smarty_internal_write_file.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Code/deka/deka.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+		],
+		"width": 832.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
